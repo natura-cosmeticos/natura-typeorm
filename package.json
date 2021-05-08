@@ -67,7 +67,7 @@
   },
   "dependencies": {
     "@naturacosmeticos/clio-nodejs-logger": "^1.3.0",
-    "typeorm": "^0.2.17"
+    "typeorm": "^0.2.25"
   },
   "homepage": "https://github.com/natura-cosmeticos/natura-typeorm#readme",
   "bugs": "https://github.com/natura-cosmeticos/natura-typeorm/issues",
